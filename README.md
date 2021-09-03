@@ -1,4 +1,4 @@
-# Untitled
+# Cover Note
 
 Health Claims Data Exchange - Open Specifications
 

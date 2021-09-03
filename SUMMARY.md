@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [Cover Note](README.md)
 
