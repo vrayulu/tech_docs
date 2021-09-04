@@ -1,6 +1,6 @@
 # Cover Note
 
-Health Claims Data Exchange - Open Specifications
+Health Claims Data Exchange - Open Specifications.
 
 Need for the new approach, Overview, Open Specifications as fundamental building blocks
 
